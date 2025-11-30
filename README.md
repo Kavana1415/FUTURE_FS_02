@@ -12,7 +12,7 @@ The website includes essential E-commerce features such as product listing with 
 ✔ Product listing with filtering and search
 ✔ Shopping cart with quantity control
 ✔ Checkout simulation with form validation
-✔ Optional user authentication and order history
+✔ order history
 ✔ Responsive design for all devices
 ✔ Clean and interactive user interface
 
